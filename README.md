@@ -1,8 +1,8 @@
 ## LainTelnet
 
 <p align="left">
-  <img src="screenshots/menu.png" height="240" />
-  <img src="screenshots/post.png" height="220" />
+  <img src="screenshots/menu.png" height="230" />
+  <img src="screenshots/post.png" height="210" />
 </p>
 
 Telnet-клиент для социальной сети [LainLife](https://lainlife.org). Выше показаны скриншоты работы клиента в терминале **Telix** 1989 года, запущенном под управлением операционной системы MS-DOS.
