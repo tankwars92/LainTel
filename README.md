@@ -1,4 +1,4 @@
-## LainTelnet
+## LainTel
 
 <p align="left">
   <img src="screenshots/menu.png" height="230" />
